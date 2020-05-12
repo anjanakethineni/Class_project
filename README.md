@@ -1,6 +1,6 @@
 # Class_project
 
-Could not upload data because the size of data files are big.
+Could not upload data because the size of data files are big, file grater than 25MB.
 
 How to run:
 
@@ -21,4 +21,6 @@ Step3: Data preprocessing( takes time for generating)
 Step4: recommendation system
 
 run the code on Merged_dataset_recent.csv
+
+recommendations will be generated
 
