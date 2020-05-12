@@ -4,7 +4,7 @@ Could not upload data because the size of data files are big, file grater than 2
 
 How to run:
 
-Step1:
+#Step1:
 
 Download the data sets from yelp, which is the tar file.
 
