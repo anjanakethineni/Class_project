@@ -2,6 +2,8 @@
 
 Could not upload data because the size of data files are big, file grater than 25MB.
 
+Note: The png files are the results.
+
 How to run:
 
 #Step1:
