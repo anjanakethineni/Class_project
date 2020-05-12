@@ -2,7 +2,7 @@
 
 Could not upload data because the size of data files are big, file grater than 25MB.
 
-Note: The png files are the results.
+Note: The png files are the results. If ipynb notbooks are not loaded on github then please download them in raw format and save as ipynb notebook
 
 How to run:
 
